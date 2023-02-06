@@ -1,0 +1,11 @@
+{
+  "name": "project-m2-es6",
+  "version": "1.0.0",
+  "description": "IFT 458 Module 2 Assignment ES6",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chris MacDonald",
+  "license": "ISC"
+}
